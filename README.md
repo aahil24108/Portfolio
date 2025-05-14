@@ -19,10 +19,15 @@
   and operating a call center for all incoming calls to the university 
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+###  SWE-MIT Beaver Works Summer Institute Build a CubeSat Challenge
+[Presentation](https://youtu.be/uKBevOst0bA)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+- Designed and fabricated a 1U CubeSat with a Raspberry Pi camera to capture high-resolution images of water environments, using a 
+ machine learning model trained on 200+ labeled images to identify plastic debris 
+- Implemented data compression algorithms, reducing image file sizes by 50% and enabling rapid transmission of 10 images to the 
+ ground station in 2.3 seconds via Bluetooth 
+- Conducted 50+ simulated ocean tests, integrating telemetry tools for real-time monitoring of acceleration, orientation, and battery 
+ status, achieving 80% accuracy in detecting and boxing plastic debris. 
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
