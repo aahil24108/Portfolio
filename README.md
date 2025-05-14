@@ -4,8 +4,8 @@
 
 #### Notable Courses:  Mechanical Design, Dynamics, Engineering  Statics, Oscillations, Waves & Quantum Physics, Thermodynamics, Differential Equations, Multivariable Calculus, Physics Mechanics & Heat, Physics Electricity & Magnetism, Python 
 
-## Education
-B.S., Mechanical Engineering | Cornell University Class of 2027
+## Education 
+B.S., Mechanical Engineering, Cornell University Class of 2027
 
 ## Work Experience
 **Director of Restaurant Operations @ Flame Broiler Restaurant (_January 2020 – June  2023_)**
