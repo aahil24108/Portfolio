@@ -29,3 +29,5 @@ B.S., Mechanical Engineering, Cornell University Class of 2027
 - Conducted 50+ simulated ocean tests, integrating telemetry tools for real-time monitoring of acceleration, orientation, and battery 
  status, achieving 80% accuracy in detecting and boxing plastic debris. 
 
+Check out my [resume]https://docs.google.com/document/d/1D7vH7wh5seBSmUcM2MoR9R_alukcsrjzBlpDJ2o_HkA/edit?usp=sharing
+
